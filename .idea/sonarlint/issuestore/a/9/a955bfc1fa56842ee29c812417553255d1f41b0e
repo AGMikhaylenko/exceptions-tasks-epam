@@ -1,0 +1,5 @@
+
+0
+java:S1220""Move this file to a named package.
+
+java:S1319"nThe type of the "rating" object should be an interface such as "Map" rather than the implementation "EnumMap".(¹÷è¿şÿÿÿÿ8Î«‡ø’/
